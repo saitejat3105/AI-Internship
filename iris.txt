@@ -1,0 +1,10 @@
+open anaconda prompt 
+you see (base)and some file path address
+here (base) is an environment to deploy model 
+(which is activated by) conda activate base (command)
+if u want u have some other too environments like
+conda activate transformer
+local host should be there like 120.87.37 etc etc
+anaconda promt u can see in search bar in chrome page if our application executes 
+normally in search we can search 
+but when applivcation executes we see local host in its place
